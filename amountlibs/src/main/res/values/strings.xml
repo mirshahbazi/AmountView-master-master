@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Amountlibs</string>
+    <string name="default_hint_amount">تومان</string>
+</resources>
